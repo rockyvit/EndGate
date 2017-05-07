@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:javaee="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" version="2.4">
+  <display-name>Food Ordering</display-name>
+  <description>Food Ordering application</description>
+  <context-param>
+    <param-name>webAppRootKey</param-name>
+    <param-value>foodordering.root</param-value>
+  </context-param>
+  <context-param>
+    <param-name>log4jConfigLocation</param-name>
+    <param-value>/WEB-INF/classes/log4j.properties</param-value>
+  </context-param>
+  <context-param>
+    <param-name>contextConfigLocation</param-name>
+    <param-value>
+		/WEB-INF/applicationContext.xml
+		/WEB-INF/applicationContext-security.xml
+		</param-value>
+  </context-param>
+  <listener>
+    <listener-class>
+			org.springframework.web.context.ContextLoaderListener
+
+		</listener-class>
+  </listener>
+  <servlet>
+    <servlet-name>foodordering</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <load-on-startup>2</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>foodordering</servlet-name>
+    <url-pattern>*.do</url-pattern>
+  </servlet-mapping>
+  <servlet>
+        <servlet-name>MainMenu</servlet-name>
+        <servlet-class>com.javapapers.java.social.facebook.MainMenu</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MainMenu</servlet-name>
+        <url-pattern>/fbhome</url-pattern>
+    </servlet-mapping>
+    
+     <servlet>  
+<servlet-name>AllLocationCoordinateController</servlet-name>  
+<servlet-class>org.pw.foodordering.controllers.AllLocationCoordinateController</servlet-class>  
+</servlet> 
+   
+   <servlet-mapping>
+        <servlet-name>AllLocationCoordinateController</servlet-name>
+        <url-pattern>/AllLCC</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+
+        <welcome-file>address.jsp</welcome-file>
+
+    </welcome-file-list>
+  <session-config>
+    <session-timeout>120</session-timeout>
+  </session-config>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <error-page>
+    <exception-type>java.lang.Exception</exception-type>
+    <location>/WEB-INF/jsp/uncaughtException.jsp</location>
+  </error-page>
+  <filter>
+    <filter-name>springSecurityFilterChain</filter-name>
+    <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>springSecurityFilterChain</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <filter>
+    <filter-name>CharsetFilter</filter-name>
+    <filter-class>org.pw.foodordering.web.CharsetFilter</filter-class>
+    <init-param>
+      <param-name>requestEncoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>CharsetFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <resource-ref>
+    <description>MySQL Datasource example</description>
+    <res-ref-name>jdbc/foodordering</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref>
+  
+</web-app>

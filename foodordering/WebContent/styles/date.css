@@ -1,0 +1,88 @@
+.ui-datepicker { width: 17em; padding: .2em .2em 0; background-color:#82a638; border:1px solid #d8e2c5;display:none;color:#e0f3d3;font-size:14px;}
+.ui-datepicker .ui-datepicker-header { position:relative; padding:.2em 0; background-color:#5e8019; border:1px solid #84af2c;color:#ffffff; font-weight:bold;}
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position:absolute; top: 2px; width: 1.8em; height: 1.8em; }
+.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { top: 1px; }
+.ui-datepicker .ui-datepicker-prev { left:2px; font-size:0px;width:20px;height:20px; background-image:url('/foodordering/images/left1.jpg');}
+.ui-datepicker .ui-datepicker-next { right:2px; font-size:0px;width:20px;height:20px; background-image:url('/foodordering/images/right1.jpg');}
+.ui-datepicker .ui-datepicker-prev-hover { left:1px; }
+.ui-datepicker .ui-datepicker-next-hover { right:1px; }
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span { display: block; position: absolute; left: 50%; margin-left: -8px; top: 50%; margin-top: -8px;  }
+.ui-datepicker .ui-datepicker-title { margin: 0 2.3em; line-height: 1.8em; text-align: center; }
+.ui-datepicker .ui-datepicker-title select { float:left; font-size:1em; margin:1px 0; }
+.ui-datepicker select.ui-datepicker-month-year {width: 100%;}
+.ui-datepicker select.ui-datepicker-month, 
+.ui-datepicker select.ui-datepicker-year { width: 49%;}
+.ui-datepicker .ui-datepicker-title select.ui-datepicker-year { float: right; }
+.ui-datepicker table {width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; }
+.ui-datepicker th { padding: .7em .3em; text-align: center; border: 0;  }
+.ui-datepicker td { border: 0; padding: 1px; }
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: .2em; text-align: right; text-decoration: none; border:1px solid #406723; background-color:#a0c454;color:#000000;}
+.ui-datepicker td a:hover { display: block; padding: .2em; text-align: right; text-decoration: none; border:1px solid #ffffff; color:#000000;background-color:#a0c454;}
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: .7em 0 0 0; padding:0 .2em; border-left: 0; border-right: 0; border-bottom: 0; }
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: .5em .2em .4em; cursor: pointer; padding: .2em .6em .3em .6em; width:auto; overflow:visible; }
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float:left; }
+
+.ui-datepicker .ui-datepicker-week-end span { color:#e0f3d3;}
+.ui-datepicker .ui-datepicker-calendar td.ui-datepicker-week-end a { background-color: #82a638;}
+.ui-datepicker .ui-datepicker-calendar td.ui-datepicker-week-end a:hover { background-color: #82a638;}
+
+
+.ui-state-active, .ui-widget-content .ui-state-active { border: 1px solid #72b42d; background:#285c00; font-weight: normal; color: #ffffff; }
+.ui-state-highlight, .ui-widget-content .ui-state-highlight {border: 1px solid #44892a; background:#b8cf96; color: #333333; }
+
+
+.ui-corner-tl { -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; }
+.ui-corner-tr { -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; }
+.ui-corner-bl { -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; }
+.ui-corner-br { -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; }
+.ui-corner-top { -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; }
+.ui-corner-bottom { -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; }
+.ui-corner-right {  -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; }
+.ui-corner-left { -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; }
+.ui-corner-all { -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+
+
+.ui-datepicker-cover {
+    display: none; /*sorry for IE5*/
+    display/**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -4px; /*must have*/
+    left: -4px; /*must have*/
+    width: 200px; /*must have*/
+    height: 200px; /*must have*/
+}
+
+#datepicker {display:none;}
+
+#selection {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:none;
+	border:1px solid black;
+	background-color:#CDFFB0;	
+}
+#selection .pw_time_select { border-collapse:collapse;cursor:pointer;}
+#selection .pw_row_odd { background-color:#BAE79F;}
+#selection .pw_row_even {}
+#selection .pw_cell { padding:3px 3px 3px 3px; border:0px solid #BAE79F; color:#7D7D7D;text-align:center;}
+#selection .pw_cell:hover { background-color:#FFB681; border:0px solid black;color:#000000;}
+#selection .special_cell { background-color:#53A044;color:#FFFFFF; } 
+#selection th { color:#950000; }
+
+#accept_button, #please_wait { border:0px solid black;width:200px;cursor:pointer;padding:16px;
+		 font-size:14px;color:#5a420e;font-family:sans-serif;}
+#please_wait { display:none; }
+#res { display:none; }
+
+td.accept_button_cell { background:url('/foodordering/images/select_button.jpg') center center no-repeat;border:0px solid black;text-align:center;}
+input.input_mod { background-color:#D2FFA7;border:1px solid #abc485; cursor:pointer;font-family:monospace;}
+select.select_mod { background-color:#D2FFA7;border:1px solid #abc485; cursor:pointer;font-family:monospace;}
+div.dates_selection { position:relative;top:-10px;left:0px;border:0px solid black;text-align:center; }
+p.date_select_substring { font-size:11pt; font-style:oblique; }
+p.date_select_substring:first-letter { font-size:15pt; }
+td.select_left { background:url('/foodordering/images/select.jpg');width:250px;border:0px solid black; }
+td.select_right { background:url('/foodordering/images/select_s.jpg');width:250px;border:0px solid black; } 
+

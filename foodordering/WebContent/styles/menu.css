@@ -1,0 +1,128 @@
+@CHARSET "UTF-8";
+
+.rest_toggle {
+	display: block;
+	height: 25px;
+	/* 	background: url(images/accordion_toggle.jpg) no-repeat top right #a9d06a; */
+	background-color: #336633;
+	padding: 0 5px 0 5px;
+	line-height: 25px;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 13px;
+	outline: none;
+	border-bottom: 1px solid #ffffff;
+	cursor: pointer;
+	margin: 0 0 0 0;
+}
+.rest_content {
+	background-color: #ffffff;
+	color: #660033;
+	overflow:hidden;
+	display:none;	
+}
+
+.group_toggle {
+	display: block;
+	height: 20px;
+/* 	background: url(images/accordion_toggle.jpg) no-repeat top right #a9d06a; */
+	background-color: #660033;
+	padding: 0 5px 0 5px;
+	line-height: 20px;
+	color: #ffffff;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	font-size: 12px;
+	border-bottom: 1px solid #ffffff;
+	cursor: pointer;
+	margin: 0 0 0 0;
+}
+
+.group_content {
+	background-color: #ffffff;
+	color: #660033;
+	overflow: hidden;
+	display:none;
+	padding-bottom:0px;
+}
+
+.dish_toggle {
+	display: block;
+/*	height: 20px; */
+	border:0px solid black;
+	/* 	background: url(images/accordion_toggle.jpg) no-repeat top right #a9d06a; */
+	background-color: #e7e7e7;
+	padding: 0 0 0 0;
+	line-height: 20px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	font-size: 12px;
+	border-bottom: 1px solid #ffffff;
+	cursor: pointer;
+	margin: 0 0 0 0;
+	padding-top:1px;
+}
+
+.dish_content {
+	background-color: #f0f0f0;
+	color: #2B2B2B;
+/* 	overflow: hidden; */
+	font-size: 11px;
+	display:none;
+}
+
+table.dish_table {
+	width:98%;
+	padding:0 0 0 0;
+	margin:-3px 0 0 0;
+}
+table.dish_table td.dish_left {
+	text-align:left;
+}
+table.dish_table td.dish_right {
+	text-align:right;
+}
+
+
+
+.edit_dark {
+	color: #ffffff;
+	position:absolute;
+	right:1%;
+	font-weight:normal;
+}
+span.edit_dark a {
+	font-size: 12px;
+}
+span.edit_dark a:link {
+		color: #ffffff;
+}
+span.edit_dark a:visited {
+		color: #ffffff;
+}
+span.edit_dark a:hover {
+		color: #ffffff;
+}
+
+.edit_light {
+	color: #000000;
+/* 	position:relative; */
+	right: 1%;
+	display:none;
+}
+span.edit_light a {
+	font-size: 12px;
+}
+span.edit_light a:link {
+		color: #000000;
+}
+span.edit_light a:visited {
+		color: #000000;
+}
+span.edit_light a:hover {
+		color: #000000;
+}

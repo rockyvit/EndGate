@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+		"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<!--
+  - Mapping file for the Hibernate implementation of the Food interface.
+	-->
+<hibernate-mapping auto-import="true" default-lazy="false">
+
+	<!--  <class name="org.pw.foodordering.elements.db.RestaurantType" table="restaurant_types">
+		<id name="restTypeId" column="rest_type_id">
+			<generator class="identity"/>
+		</id>
+		<property name="typeName" column="type_name"/>
+		<set name="restaurants" table="restaurants">
+			<key column="rest_type_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Restaurant"/>
+		</set>
+	</class>-->
+
+	<!--<class name="org.pw.foodordering.elements.db.Restaurant" table="restaurants">
+		<id name="restId" column="rest_id">
+			<generator class="identity"/>
+		</id>
+		<property name="name" column="name"/>
+		<property name="description" column="description"/>
+		<many-to-one name="restType" column="rest_type_id" class="org.pw.foodordering.elements.db.RestaurantType" />
+		<set name="groups" table="groups" inverse="true" cascade="all-delete-orphan" order-by="group_name" lazy="true">
+			<key column="rest_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Group"/>
+		</set>
+	</class>-->
+
+	<!--<class name="org.pw.foodordering.elements.db.Dish" table="dishes">
+		<id name="dishId" column="dish_id">
+			<generator class="identity"/>
+		</id>
+		<property name="price" column="price"/>
+		<property name="specyficInfo" column="specyfic_info"/>
+		<many-to-one name="group" column="group_id" class="org.pw.foodordering.elements.db.Group"/>
+		<many-to-one name="details" column="dish_def_id" class="org.pw.foodordering.elements.db.DishDef"/>
+	</class>-->
+
+	<!--<class name="org.pw.foodordering.elements.db.DishDef" table="dish_definitions">
+		<id name="dishDefId" column="dish_def_id">
+			<generator class="identity"/>
+		</id>
+		<property name="name" column="name"/>
+		<property name="description" column="description"/>
+		<set name="dishes" lazy="true">
+			<key column="dish_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Dish"/>
+		</set>
+	</class>-->
+	
+	<!--<class name="org.pw.foodordering.elements.db.ExtraOffers" table="extra_offers">
+		<id name="offerId" column="offer_id">
+			<generator class="identity"/>
+		</id>
+		<property name="description" column="description"/>
+		<many-to-one name="restaurant" column="rest_id" class="org.pw.foodordering.elements.db.Restaurant"/>
+	</class>-->
+	
+	<!--<class name="org.pw.foodordering.elements.db.OrderElement" table="order_elements">
+		<id name="orderElementId" column="order_element_id">
+			<generator class="identity"/>
+		</id>
+		<property name="additionalInfo" column="additional_info"/>
+		<many-to-one name="dish" column="dish_id" class="org.pw.foodordering.elements.db.Dish"/>
+		<many-to-one name="order" column="order_id" class="org.pw.foodordering.elements.db.Order"/>
+	</class>-->
+	
+	<!--<class name="org.pw.foodordering.elements.db.Order" table="orders">
+		<id name="orderId" column="order_id">
+			<generator class="identity"/>
+		</id>
+		<property name="additionalInfo" column="additional_info"/>
+		<property name="orderingDate" column="ordering_date"/>
+		<property name="creationDate" column="creation_date"/>
+		<property name="cashPaid" column="cash_paid"/>
+		<property name="status" column="status"/>
+		<many-to-one name="user" column="user_id" class="org.pw.foodordering.elements.db.User"/>
+		<many-to-one name="restaurant" column="rest_id" class="org.pw.foodordering.elements.db.Restaurant"/>
+		<set name="orderElements" table="order_elements" inverse="true" cascade="all-delete-orphan" order-by="dish_id">
+			<key column="order_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.OrderElement"/>
+		</set>
+	</class>-->
+	
+	<!--<class name="org.pw.foodordering.elements.db.Activation" table="activation">
+		<id name="activationId" column="activation_id">
+			<generator class="identity"/>
+		</id>
+		<property name="phone" column="phone"/> 
+		<property name="activationCode" column="activation_code"/>
+		<property name="username" column="username"/>
+		<property name="userId" column="user_id"/>
+		<many-to-one name="user" column="user_id" class="org.pw.foodordering.elements.db.User" insert="false" update="false"/>
+	</class>-->
+	
+	<!-- <class name="org.pw.foodordering.elements.db.Authority" table="authorities">
+		<id name="authorityId" column="authority_id">
+			<generator class="identity"/>
+		</id>
+		<property name="userId" column="user_id"/>
+		<property name="authority" column="authority"/>
+		<property name="username" column="username"/>
+		<property name="Mobileno" column="Mobileno"/>
+	</class>-->
+	
+	
+	   
+	<class name="org.pw.foodordering.elements.db.User" table="user">
+		 <id name="usr_id" column="usr_id" type="integer">
+			<generator class="identity"/>
+		</id>
+	   <!--<property name="id" column="upr_id"/>-->
+		<property name="authority_type" column="authority_type" type="string"/>
+		<property name="login_id" column="login_id" type="string"/>
+		<property name="password" column="password" type="string"/>
+		<property name="first_name" column="first_name" type="string"/>
+		<property name="middle_name" column="middle_name" type="string"/>
+		<property name="last_name" column="last_name" type="string"/>
+		<property name="photo" column="photo" type="string"/>
+		<property name="dob" column="dob" type="string"/>
+		<property name="gender" column="gender" type="string"/>
+		<property name="email_secret_key" column="email_secret_key" type="string"/>
+		<property name="email_verified" column="email_verified" type="integer"/>
+		<property name="country_code" column="country_code" type="string" />
+		<property name="phone" column="phone" type="string" />
+		<property name="phone_secret_key" column="phone_secret_key" type="string"/>
+		<property name="phone_verified" column="phone_verified" type="integer"/>
+		<property name="address1" column="address1" type="string"/>
+		<property name="address1_city" column="address1_city" type="string"/>
+		<property name="address1_state" column="address1_state" type="string"/>
+		<property name="address1_zip" column="address1_zip" type="integer"/>
+		<property name="address1_landmark" column="address1_landmark" type="string"/>
+		<property name="address1_alc_id" column="address1_alc_id" type="integer"/>
+		<property name="address2" column="address2" type="string"/>
+		<property name="address2_city" column="address2_city" type="string"/>
+		<property name="address2_state" column="address2_state" type="string"/>
+		<property name="address2_zip" column="address2_zip" type="integer"/>
+		<property name="address2_landmark" column="address2_landmark" type="string"/>
+		<property name="address2_alc_id" column="address2_alc_id" type="integer"/>
+		<property name="order_timely_delivered_count" column="order_timely_delivered_count" type="integer"/>
+		<property name="order_placed_count" column="order_placed_count" type="integer"/>
+		<property name="order_delayed_delivered_count" column="order_delayed_delivered_count" type="integer"/>
+		<property name="order_cancelled_count" column="order_cancelled_count" type="integer"/>
+		<property name="referral_code" column="referral_code" type="string"/>
+		<property name="referral_count" column="referral_count" type="integer"/>
+		<property name="enabled" column="enabled" type="integer"/>
+		<property name="false_count" column="false_count" type="integer"/>
+		<property name="created_ip" column="created_ip" type="string"/>
+		<property name="creation_date" column="creation_date" type="timestamp"/>
+		<property name="account_expiry" column="account_expiry" type="timestamp"/>
+		<property name="modified_ip" column="modified_ip" type="string"/>
+		<property name="last_accessed" column="last_accessed" type="timestamp"/>
+		<property name="flag" column="flag" type="integer"/>
+	
+	</class>
+	<!--  <class name="org.pw.foodordering.elements.db.User_profile" table="user_profile">
+		<id name="upr_id" column="upr_id">
+			<generator class="identity"/>
+		</id>
+		<property name="username" column="username"/>
+		<property name="password" column="password"/>
+		<property name="password2" column="password2"/>
+		<property name="Mobileno" column="Mobileno"/>
+		 <property name="firstName" column="first_name"/>
+		<property name="lastName" column="last_name"/>
+		<property name="email" column="email"/>
+		 <property name="roomNumber" column="room_number"/>
+		<property name="defaultDeliveryTime" column="default_delivery_time"/>
+		
+		<set name="authorities" table="authorities" inverse="true" cascade="all-delete-orphan">
+			<key column="user_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Authority"/>
+		</set>
+		
+		<set name="orders" table="orders" inverse="true" cascade="all-delete-orphan" order-by="ordering_date">
+			<key column="user_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Order"/>
+		</set>
+	</class>-->
+	
+	<!--<class name="org.pw.foodordering.elements.db.Group" table="groups">
+		<id name="groupId" column="group_id">
+			<generator class="identity"/>
+		</id>
+		<property name="groupName" column="group_name"/>
+
+		<many-to-one name="restaurant" column="rest_id" class="org.pw.foodordering.elements.db.Restaurant"/>				
+		<set name="dishes" table="dishes" inverse="true" cascade="all-delete-orphan" order-by="price" lazy="true">
+			<key column="group_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.Dish"/>
+		</set>
+	</class>-->
+	
+	<!-- <class name="org.pw.foodordering.elements.db.HorderElement" table="order_items_history">
+		<id name="hitemId" column="hitem_id">
+			<generator class="identity"/>
+		</id>
+		<property name="dishName" column="dish_name"/>
+		<property name="price" column="price"/>
+		<many-to-one name="horder" column="horder_id" class="org.pw.foodordering.elements.db.Horder"/>				
+	</class>-->
+	
+	<!-- <class name="org.pw.foodordering.elements.db.Horder" table="orders_history">
+		<id name="horderId" column="horder_id">
+			<generator class="identity"/>
+		</id>
+		<property name="restaurantName" column="rest_name"/>
+		<property name="orderingDate" column="ordering_date"/>
+		<property name="creationDate" column="creation_date"/>
+
+		<many-to-one name="user" column="user_id" class="org.pw.foodordering.elements.db.User"/>				
+		<set name="horderElements" table="order_items_history" inverse="true" cascade="all-delete-orphan" order-by="dish_name">
+			<key column="horder_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.HorderElement"/>
+		</set>
+	</class>-->
+	
+		
+	
+<!-- CONFIG 	
+	<class name="org.pw.foodordering.elements.Config" table="config">
+		<id name="orderId" column="order_id">
+			<generator class="identity"/>
+		</id>
+		<property name="additionalInfo" column="additional_info"/>
+		<property name="date" column="date"/>
+		<property name="cashPaid" column="cash_paid"/>
+		<property name="status" column="status"/>
+		<set name="orderElements" table="order_elements">
+			<key column="order_id"/>
+			<one-to-many class="org.pw.foodordering.elements.db.OrderElement"/>
+		</set>
+	</class>
+-->
+</hibernate-mapping>

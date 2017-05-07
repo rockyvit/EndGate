@@ -1,0 +1,1076 @@
+PIO: users 1
+PIO: users 1
+PIO: !user.getOrders().isEmpty() false
+PIO: !user.getOrders().isEmpty() false
+PIO: Current date: 2017-03-25 23:25
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:26
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:27
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:28
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:29
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:30
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:31
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:32
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:33
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:34
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:35
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:36
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:37
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:38
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:39
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:40
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:41
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:42
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:43
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:44
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-25 23:45
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:03
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:04
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:05
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:06
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:07
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:08
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:09
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:10
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:11
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:12
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:13
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:14
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:15
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:16
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:17
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:18
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:19
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:20
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:21
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:22
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:23
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:24
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:25
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:26
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:27
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:28
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:29
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:30
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:31
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:32
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:33
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:34
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:35
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:36
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:37
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:38
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:39
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:40
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:41
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:42
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:43
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:44
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:45
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:46
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:47
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:48
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:49
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:50
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:51
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:52
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:53
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:54
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:55
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:56
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:57
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:58
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 01:59
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:00
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:01
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:02
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:03
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:04
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:05
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:06
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-26 02:07
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-27 23:55
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: users 1
+PIO: users 1
+PIO: !user.getOrders().isEmpty() false
+PIO: !user.getOrders().isEmpty() false
+PIO: Current date: 2017-03-27 23:56
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...
+PIO: Current date: 2017-03-27 23:57
+PIO: no of restaurants: 4
+PIO: Checking rest: foodclock
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock1
+PIO: order times for rst: 0
+PIO: Checking rest: foodclock2
+PIO: order times for rst: 0
+PIO: Checking rest: IFC1
+PIO: order times for rst: 0
+PIO: size of result from getAllOrdersBeforeTime is: 0
+Continuing...

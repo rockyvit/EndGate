@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/java jar/twilio-java-sdk-3.3.12.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-webmvc-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-webmvc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-web.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-tx-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-security-web-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-security-taglibs-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-security-crypto-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-security-core-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/spring-security-config-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.web-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.web.servlet-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.transaction-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.orm-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.jdbc-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.expression-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.core-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.context-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.context.support-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.beans-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.asm-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.springframework.aop-3.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/org.json.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/mail.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jta.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jstl.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-client-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-client-1.18.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-client-1.18.4.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-client-1.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-client.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-bundle-1.19.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/jersey-bundle-1.18.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/javax.servlet-2.5.0.v201103041518.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/gson-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/foodordering-domain.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/foodordering.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/commons-collections.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/aopalliance.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/java jar/activation.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

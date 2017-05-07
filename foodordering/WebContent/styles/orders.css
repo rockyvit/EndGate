@@ -1,0 +1,132 @@
+@CHARSET "UTF-8";
+
+.div_order {
+	display:block;
+	border:0px solid black;
+	padding:2px;
+	background:#FAFFE3; 
+	overflow-y: hidden;
+}
+
+div.tl1 { background:url('/foodordering/images/tl.jpg') no-repeat left top; }
+div.tr1 { background:url('/foodordering/images/tr.jpg') no-repeat right top; }
+div.dl1 { background:url('/foodordering/images/dl.jpg') no-repeat left bottom; }
+div.dr1 {
+	background:url('/foodordering/images/dr.jpg') no-repeat right bottom;
+	right:100%;
+	bottom:100%;
+	padding:10px 10px 10px 10px;
+}
+
+.title {
+	font-size:20px;
+	letter-spacing:2px;
+	font-style:italic;
+}
+
+.title2 {
+	font-size:15px;
+	letter-spacing:2px;
+	font-style:italic;
+}
+
+a.delete {
+	border:1px solid black;
+	padding-left:1em;
+	padding-right:1em;
+	background-color:#FFD5D5;
+	color:#530000;
+	text-decoration:none;
+}
+
+a.delete:hover {
+	background-color:#FF5C5C;
+}
+
+a.delete_elem {
+	border:1px solid #FF0000;
+	padding-left:1em;
+	padding-right:1em;
+	padding-top:1em;
+	padding-bottom:1em;
+	background-color:#FFD5D5;
+	color:#530000;
+	text-decoration:none;
+	margin-left:90%;
+	font-size:12px;
+}
+
+a.delete_elem:hover {
+	background-color:#FF5C5C;
+}
+
+
+.div_details {
+	background-color:#ecff95;
+	width:20%;
+	border:0px solid black;
+	float:left;
+	margin: 1em;
+	text-align:left;
+}
+
+.div_elements_main {
+	width:70%;
+	background-color:#ecff95;
+	border:0px solid black;
+	float:left;
+	margin: 1em;
+	text-align:left;
+}
+.div_elements_elem {
+	width:95%;
+	background-color:#AFFF97;
+	margin-top:1em;
+	margin-left:1em;
+	margin-bottom: 2em;
+	text-align:left;
+	padding: 1px 5px 5px 5px;
+}
+
+.div_order p {
+	font-size:11px;
+}
+.div_order .special {
+	font-size:18px;
+	font-weight:bolder;
+	font-family:serif;
+	color:#054C08;
+}
+div.tl2 { background:url('/foodordering/images/tl2.jpg') no-repeat left top; border:0px solid red;}
+div.tr2 { background:url('/foodordering/images/tr2.jpg') no-repeat right top;  border:0px solid green;}
+div.dl2 { background:url('/foodordering/images/dl2.jpg') no-repeat left bottom;  border:0px solid yellow;}
+div.dr2 {
+	background:url('/foodordering/images/dr2.jpg') no-repeat right bottom;
+	padding:0px 0px 0px 0px;
+ 	border:0px solid blue;
+}
+
+.div_old_orders {
+	background-color:#E0E0E0;
+	width:95%;
+	border:0px solid black;
+	margin:2px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	text-align:left;
+	line-height:normal;
+}
+
+.div_old_orders div.inner {
+	font-size:10px;	
+	padding-left:10px;
+}
+.div_old_orders .special {
+	font-size:16px;
+	font-weight:bolder;
+	font-family:serif;
+	color:#00410E;
+}
+
+.order_button { border:0px solid black;background-color:transparent; font-family:serif;font-size:15px;width:96%;cursor:pointer; }
+.dish_details { cursor:default; }
+.a_curent_orders { color:#b13333; font-size:14px; text-decoration:none;}
