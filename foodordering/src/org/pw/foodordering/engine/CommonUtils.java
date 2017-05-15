@@ -11,6 +11,7 @@ public class CommonUtils
   {
     try
     {
+
       MessageDigest md = MessageDigest.getInstance("MD5");
       byte[] bytes = md.digest(value.getBytes());
       return new String(Hex.encodeHex(bytes));
